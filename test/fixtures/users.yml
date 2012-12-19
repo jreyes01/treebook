@@ -5,5 +5,9 @@ justin:
   profile_name:  "jreyes01"
   encrypted_password: "$2a$10$aLlr5KEzmL/qFDgaoXQhcOSfnN61VTiGSxZjxe9zo/bt..."
 
-
+jennie:
+  first_name: "Jason"
+  last_name: "Jennie"
+  email: "jenrey@gmail.com"
+  profile_name: "Reyes"
 
