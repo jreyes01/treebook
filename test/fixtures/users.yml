@@ -1,6 +1,9 @@
 justin:
   first_name:  "Justin"
   last_name:  "Reyes"
-  profile_name:  "jreyes01"
   email:  "itsjustreyes@gmail.com"
-  encrypted_password:  "password"
+  profile_name:  "jreyes01"
+  encrypted_password: "$2a$10$aLlr5KEzmL/qFDgaoXQhcOSfnN61VTiGSxZjxe9zo/bt..."
+
+
+
